@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+#main_content_wrap {
+  background-color: white;
+  background-image: url(logo.svg);
+  background-size: 203px 71px;
+  background-repeat: no-repeat;
+  background-position: top right;
+}
