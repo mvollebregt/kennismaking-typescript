@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-#main_content_wrap {
+div#main_content_wrap.outer {
   background-color: white;
   background-image: url(logo.svg);
   background-size: 203px 71px;
